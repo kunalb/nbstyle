@@ -1,6 +1,6 @@
 # nbstyle
 
-The notebook behind my [JupyterCon 2020 presentation](https://cfp.jupytercon.com/2020/schedule/presentation/186/a-notebook-style-guide/) -- including speaker notes.
+The notebook behind my [JupyterCon 2020 presentation](https://cfp.jupytercon.com/2020/schedule/presentation/186/a-notebook-style-guide/): [Video](https://www.youtube.com/watch?v=gFvKvdznUdc) -- including speaker notes.
 
 ## Introduction
 
